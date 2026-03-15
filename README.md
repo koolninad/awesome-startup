@@ -15,6 +15,7 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Marketing, Sales & metrics](#marketing-sales--metrics)
 - [Task Management & Collaboration](#task-management--collaboration)
 - [Marketing Tools](#marketing-tools)
+- [Nubo Email](https://nubo.email) - Privacy-first business email with organization-based pricing (unlimited users).
 - [Coworking & Virtual Offices](#coworking--virtual-offices)
 - [Leadership & People](#leadership--people)
 
